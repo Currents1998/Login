@@ -32,7 +32,7 @@
                     <ul class="navbar-nav me-auto">
 
                     </ul>
-
+Reestablecer contraseña
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ms-auto">
                         <!-- Authentication Links -->
